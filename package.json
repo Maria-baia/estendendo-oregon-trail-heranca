@@ -1,7 +1,7 @@
 {
   "name": "oregon-trail",
   "version": "1.0.0",
-  "description": "",
+  "description": "Relembre como usar herança/delegação para estender um objeto de classe criando uma nova variação da classe original. Aqui está um exemplo:",
   "main": "app.js",
   "scripts": {
     "test": "cucumber-js"
@@ -9,6 +9,16 @@
   "author": "victor@kenzie.com.br",
   "license": "ISC",
   "devDependencies": {
-    "@cucumber/cucumber": "^7.2.1"
-  }
+    "@cucumber/cucumber": "^7.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenzie-Academy-Brasil-Developers/entrega-new-oregon-trail-heranca-sprint-6-Maria-baia.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Kenzie-Academy-Brasil-Developers/entrega-new-oregon-trail-heranca-sprint-6-Maria-baia/issues"
+  },
+  "homepage": "https://github.com/Kenzie-Academy-Brasil-Developers/entrega-new-oregon-trail-heranca-sprint-6-Maria-baia#readme",
+  "dependencies": {}
 }

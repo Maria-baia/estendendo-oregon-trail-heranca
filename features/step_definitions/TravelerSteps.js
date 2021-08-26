@@ -26,7 +26,7 @@ When('o Traveler sair para caçar {int} vezes', function (int) {
 });
 
 When('o Traveler parar para comer {int} vezes', function (int) {
-    for (let contador=0; contador < int; contador++) {
+    for (let contador=0; contador<int; contador++) {
         viajante.eat();
     }
 });
@@ -44,3 +44,4 @@ Then('o Traveler não ficará doente', function () {
 Then('o Traveler ficará doente', function () {
     assert.strictEqual(viajante.isHealthy, false)
 });
+
