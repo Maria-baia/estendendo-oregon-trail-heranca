@@ -1,0 +1,14 @@
+{
+  "name": "oregon-trail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "victor@kenzie.com.br",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.2.1"
+  }
+}
